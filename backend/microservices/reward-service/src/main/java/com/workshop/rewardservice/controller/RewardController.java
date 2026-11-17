@@ -10,6 +10,6 @@ public class RewardController {
 
     @GetMapping("/reward")
     public String getRewardGreeting() {
-        return "Hello from reward";
+        return "ٱلسَّلَامُ عَلَيْكُمْ";
     }
 }
